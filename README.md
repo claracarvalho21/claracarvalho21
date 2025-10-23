@@ -64,6 +64,8 @@
 
 ### ⭐ "Código é poesia, tecnologia é arte!" ⭐
 
+![Snake animation](https://github.com/claracarvalho21/claracarvalho21/blob/output/github-contribution-grid-snake.svg)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=claracarvalho21&color=blueviolet&style=flat-square)
 
 **Obrigada pela visita! Deixe uma ⭐ nos meus repositórios!**
